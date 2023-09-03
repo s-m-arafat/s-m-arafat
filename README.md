@@ -1,7 +1,6 @@
-- 👋 Hi, It's me Arafat
-- ✨ I’m interested in **Web application & Fullstack development**
-- 🛠️ In general `Javascript` is my favourite, but it all started with `C` and `C++`
-- 🌱 Currently working with the so called `MERN` stack. MongoDb, ExpressJs, React, Nodejs
+- 👋 Hi, It's me, Arafat
+- ✨ I’m interested in **Machine learning, Programming, and chip design (VLSI)**
+- 🛠️, Started with `C++`, now thriving in `Python` and `JavaScript`
 - 💡 **Highly interested** in collaborating on new creative ideas
 - 📫 You can drop a message at https://facebook.com/arft666 or mail me ahmed.arafat666@gmail.com
 
