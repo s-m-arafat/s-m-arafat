@@ -1,5 +1,5 @@
 - 👋 Hi, It's me, Arafat
-- ✨ I’m interested in **Machine learning, Programming, and chip design (VLSI)**
+- ✨ I’m interested in **Machine learning and chip design (VLSI)**
 - 🛠️, Started with `C++`, now thriving in `Python` and `JavaScript`
 - 💡 **Highly interested** in collaborating on new creative ideas
 - 📫 You can drop a message at https://facebook.com/arft666 or mail me shakilmahmudarafat@gmail.com
